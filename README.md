@@ -1,1 +1,3 @@
-# TBDBot
+# TBD Bot
+
+Funny TBD bot. :)
